@@ -9,15 +9,18 @@
 ## VS Code–specific configurations
 ### _**Paste the vscode urls in the browser, then it will delegate the command to vscode**_
 
-Auto approve (global) vscode://settings/chat.tools.global.autoApprove  
+Auto approve (global) 
+vscode://settings/chat.tools.global.autoApprove  
 Disables approval prompts globally (**dangerous**)
 
-Auto approve (terminal) vscode://settings/chat.tools.terminal.autoApprove   
+Auto approve (terminal) 
+vscode://settings/chat.tools.terminal.autoApprove   
 Disables approval prompts for terminal operations
 
-Use instruction files vscode://settings/github.copilot.chat.codeGeneration.useInstructionFiles  
+Use instruction files  
+vscode://settings/github.copilot.chat.codeGeneration.useInstructionFiles  
 Enables instruction files (should be on by default)
 
 Enable subagent to use custom agents  
-chat.customAgentInSubagent.enabled 
-Enable support for custom agents in subagents  
+vscode://chat.customAgentInSubagent.enabled  
+Enable support for custom agents in subagents, reference https://code.visualstudio.com/docs/copilot/chat/chat-sessions#_use-a-custom-agent-with-subagents-experimental
