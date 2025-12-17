@@ -17,3 +17,7 @@ Disables approval prompts for terminal operations
 
 Use instruction files vscode://settings/github.copilot.chat.codeGeneration.useInstructionFiles  
 Enables instruction files (should be on by default)
+
+Enable subagent to use custom agents  
+chat.customAgentInSubagent.enabled 
+Enable support for custom agents in subagents  
