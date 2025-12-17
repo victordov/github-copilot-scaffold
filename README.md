@@ -6,6 +6,10 @@
 [Use prompt files in VS Code](https://code.visualstudio.com/docs/copilot/customization/prompt-files)  
 [Use custom instructions in VS Code](https://code.visualstudio.com/docs/copilot/customization/custom-instructions)
 
+## Github Copilot setup
+[Github Copilot - Awesome Copilot](https://github.com/github/awesome-copilot)
+
+
 ## VS Code–specific configurations
 ### _**Paste the vscode urls in the browser, then it will delegate the command to vscode**_
 
